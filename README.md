@@ -33,4 +33,4 @@ On Windows, you should add `-G "NMake Makefiles"` to the CMake invocation. Make 
 `ADDON_SRC_PREFIX` does _not_ point directly to `pvr.octonet` but instead to its parent directory.
 
 Finally, build the plugin with `make` (or `nmake` on Windows). The plugin should be in an `install`
-subdirectory.
+subdirectory.ambiorixorlando051-bot 
